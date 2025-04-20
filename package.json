@@ -10,7 +10,6 @@
   "dependencies": {
     "next": "latest",
     "react": "latest",
-    "react-dom": "latest",
-    "react-icons": "^4.10.1"
+    "react-dom": "latest"
   }
 }
